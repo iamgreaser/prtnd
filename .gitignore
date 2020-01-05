@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# VIM
+.sw?
+.*.sw?
+
+# old crap
+_old/
